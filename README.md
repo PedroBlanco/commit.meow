@@ -21,3 +21,4 @@ See how a minor change to your commit message style can make you a better progra
      
 ```
 
+TODO: Add proposed changes to commit-msg
